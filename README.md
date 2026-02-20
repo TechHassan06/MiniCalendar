@@ -26,4 +26,3 @@ It dynamically displays the **current date, weekday, month, and year** in a mode
 
 ---
 
-## 📂 Project Structure
