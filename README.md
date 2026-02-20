@@ -4,6 +4,8 @@ A simple and elegant **Mini Calendar Web App** built using **HTML, CSS, and Java
 It dynamically displays the **current date, weekday, month, and year** in a modern card UI.
 
 ---
+## Live Preview
+https://my-new-mini-calendar.netlify.app/
 
 ## 🚀 Features
 - Shows **current date, day, month, and year** automatically
