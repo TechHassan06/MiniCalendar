@@ -7,6 +7,8 @@ It dynamically displays the **current date, weekday, month, and year** in a mode
 ## Live Preview
 https://my-new-mini-calendar.netlify.app/
 
+---
+
 ## 🚀 Features
 - Shows **current date, day, month, and year** automatically
 - **Responsive design** with a modern gradient background
